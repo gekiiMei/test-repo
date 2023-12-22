@@ -7,7 +7,7 @@ public class Hello {
         System.out.println("Harley");
         System.out.println("Members: ");
         for (String s : members) {
-            System.out.println(s);
+            System.out.println("\t" + s);
         }
     }
 }
