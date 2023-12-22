@@ -4,7 +4,7 @@ public class Hello {
             "Harley"
             "Jeriel"
         };
-        System.out.println("Hey world!");
+        System.out.println("Hello world!");
         System.out.println("Harley");
         System.out.println("Members: ");
         for (String s : members) {
