@@ -1,7 +1,7 @@
 public class Hello {
     public static void main(String[] args) {
         String[] members = {
-            "Harley"
+            "Harley",
             "Jeriel"
         };
         System.out.println("Hello world!");
