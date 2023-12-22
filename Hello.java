@@ -6,7 +6,7 @@ public class Hello {
         System.out.println("Hey world!");
         System.out.println("Members: ");
         for (String s : members) {
-            System.out.println(s);
+            System.out.println("\t" + s);
         }
     }
 }
